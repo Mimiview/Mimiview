@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Alessandro!
-Hi there, I'm **Alessandro Giuliani**, a **Computer Science student** 🚀 at the Università Ca' Foscari in Venice. Born in L'Aquila🦅🏔, Italy.
+Hi there, I'm **Alessandro**, a **Computer Science student** 🚀 at the Università Ca' Foscari in Venice. Born in L'Aquila🦅🏔, Italy.
 
 ### Something about Me
 - 🔭 I’m currently working on personal and university projects.
